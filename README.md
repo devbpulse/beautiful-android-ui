@@ -260,5 +260,5 @@ Name | Demo
 
 
 #About Me
-Linkedin: [achmun0526](linkedin.com/in/zhaolin0526)   
+Linkedin: [achmun0526](http://linkedin.com/in/zhaolin0526)   
 Email: achmun0526@gmail.com
